@@ -1,0 +1,5 @@
+sale_id,customer_id,product,amount,sale_date,region
+101,C001,Shoes,2999,2023-10-01,North
+102,C002,T-Shirt,999,2023-10-01,West
+103,C001,Watch,5999,2023-10-02,North
+104,C003,Bag,1999,2023-10-03,South
